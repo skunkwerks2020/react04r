@@ -18,6 +18,9 @@ function App() {
         >
           Learn React
         </a>
+        React04r - initial commit & deploy - edit v0.1
+        <br/>
+        Edit v0.2
       </header>
     </div>
   );
